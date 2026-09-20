@@ -8,9 +8,9 @@ Translating 8+ years of investigative rigor into Identity and Access Management.
 
 ## About This Portfolio
 
-I've spent 8+ years in Trust & Safety at a high-growth tech platform doing work that sits at the core of IAM: deciding who should have access to what, verifying identities, spotting when activity doesn't fit the pattern, and documenting every decision so it holds up under scrutiny.
+I've spent 8+ years in Trust & Safety doing work that translates naturally into identity and access risk: verifying identities, investigating account misuse and unauthorized access, identifying anomalous activity, and documenting evidence-based decisions.
 
-This portfolio applies that experience to Identity and Access Management. Each project is a written case study — access reviews, the joiner/mover/leaver lifecycle, and access-abuse investigation — framed in a security context. The goal isn't to imitate a junior analyst's first labs; it's to show how a seasoned investigator approaches access and identity.
+This portfolio applies that experience to Identity and Access Management. Each project is a written case study — access reviews, the joiner/mover/leaver lifecycle, and access-abuse investigation — framed in a security context. The goal is to demonstrate how an experienced investigator applies evidence-based reasoning, documentation, and risk judgment to identity and access scenarios.
 
 ## Focus Areas
 
