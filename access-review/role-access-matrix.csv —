@@ -1,0 +1,9 @@
+role,system,authorized_access
+Customer Support Agent,Salesforce,Read/Write
+Sales Rep,Salesforce,Read/Write
+Finance Analyst,NetSuite,Read/Write
+Operations Specialist,Admin Console,Read/Write
+Operations Specialist,Salesforce,Read-only
+HR Specialist,Workday,Read/Write
+Platform Engineer,Admin Console,Full Admin
+Platform Engineer,AWS Console,Full
