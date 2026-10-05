@@ -1,0 +1,18 @@
+name,role,system,access,last_login,account_status,employment_status
+Sarah Chen,Customer Support Agent,Salesforce,Read/Write,2026-09-30,Active,Active
+Marcus Webb,Customer Support Agent,Salesforce,Read/Write,2026-09-29,Active,Active
+Priya Nair,Sales Rep,Salesforce,Read/Write,2026-09-30,Active,Active
+Tom Delgado,Sales Rep,Salesforce,Read/Write,2026-09-28,Active,Active
+Angela Ruiz,Finance Analyst,NetSuite,Read/Write,2026-09-30,Active,Active
+David Okafor,Operations Specialist,Admin Console,Read/Write,2026-09-30,Active,Active
+David Okafor,Operations Specialist,Salesforce,Read-only,2026-09-27,Active,Active
+Lauren Pace,HR Specialist,Workday,Read/Write,2026-09-30,Active,Active
+Raj Patel,Platform Engineer,Admin Console,Full Admin,2026-09-30,Active,Active
+Raj Patel,Platform Engineer,AWS Console,Full,2026-09-30,Active,Active
+Kevin Brooks,Finance Analyst,NetSuite,Read/Write,2026-09-30,Active,Active
+Kevin Brooks,Finance Analyst,Admin Console,Read/Write,2026-09-29,Active,Active
+Monica Flores,HR Specialist,Workday,Read/Write,2026-09-30,Active,Active
+Monica Flores,HR Specialist,Admin Console,Read/Write,2026-08-15,Active,Active
+Monica Flores,HR Specialist,Salesforce,Read-only,2026-08-10,Active,Active
+Brian Hollis,Operations Specialist,Admin Console,Read/Write,2026-09-28,Active,Terminated 2026-09-12
+Brian Hollis,Operations Specialist,Salesforce,Read-only,2026-09-20,Active,Terminated 2026-09-12
