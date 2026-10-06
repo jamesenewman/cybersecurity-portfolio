@@ -1,4 +1,4 @@
-name,role,system,access,last_login,account_status,employment_status
+Name,Role,System,Access,Last_Login,Account_Status,Employment_Status
 Sarah Chen,Customer Support Agent,Salesforce,Read/Write,2026-09-30,Active,Active
 Marcus Webb,Customer Support Agent,Salesforce,Read/Write,2026-09-29,Active,Active
 Priya Nair,Sales Rep,Salesforce,Read/Write,2026-09-30,Active,Active
