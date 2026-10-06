@@ -21,8 +21,8 @@ This portfolio applies that experience to Identity and Access Management. Each p
 
 ## Projects
 
-**1. Access Review / IAM Audit** · *in progress*
-A mock user-access review: identifying over-provisioned and stale access, flagging least-privilege violations, and documenting remediation recommendations — the core work of an IAM analyst.
+**1. [Access Review / IAM Audit](./access-review)** · *complete*
+A mock user-access review: identifying over-provisioned and stale access, flagging least-privilege violations, and documenting remediation recommendations — the core work of an IAM analyst. Reviewed 11 users across 5 systems and identified three findings — excess privilege, privilege creep, and an offboarding failure — with prioritized remediation.
 
 **2. Joiner / Mover / Leaver (JML) Workflow** · *planned*
 Mapping the access lifecycle end to end: what gets provisioned when an employee joins, adjusted when they change roles (avoiding privilege creep), and deprovisioned when they leave.
@@ -32,7 +32,7 @@ Reconstructing an account-takeover and unauthorized-access scenario: timeline, e
 
 ## Background
 
-8+ years at a high-growth logistics tech platform (a UPS company) across Trust & Safety — Critical Response, Fraud, Compliance, and Claims. Made access and identity decisions on complex cases, investigated account takeover and unauthorized access, and built the department's first QA scoring rubric, standard investigative documentation template, and first formal training program. Hands-on with identity and verification tooling — Persona, Mitek, Checkr.
+8+ years at a high-growth logistics tech platform across Trust & Safety — Critical Response, Fraud, Compliance, and Claims. Made access and identity decisions on complex cases, investigated account takeover and unauthorized access, and built the department's first QA scoring rubric, standard investigative documentation template, and first formal training program. Hands-on with identity and verification tooling — Persona, Mitek, Checkr.
 
 ## Currently
 
