@@ -1,4 +1,4 @@
-role,system,authorized_access
+Role,System,Authorized_Access
 Customer Support Agent,Salesforce,Read/Write
 Sales Rep,Salesforce,Read/Write
 Finance Analyst,NetSuite,Read/Write
