@@ -6,6 +6,8 @@ remediation. Built to demonstrate access-governance judgment: reviewing
 entitlements against role baselines, flagging violations, and driving them to
 remediation.
 
+🎥 **[Watch the video walkthrough](https://www.youtube.com/watch?v=ZodRge2-OR8)** — a narrated walk through the review: identifying over-provisioned and stale access, flagging least-privilege violations, and documenting remediation.
+
 ---
 
 ## Overview
