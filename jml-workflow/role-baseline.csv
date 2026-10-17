@@ -1,0 +1,6 @@
+role,admin_console,salesforce,netsuite,workday,aws_console
+Support Analyst,Yes,Yes,No,No,No
+Finance Analyst,Yes,No,Yes,No,No
+Engineer,Yes,No,No,No,Yes
+HR Analyst,Yes,No,No,Yes,No
+Sales Rep,No,Yes,No,No,No
