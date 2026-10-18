@@ -1,4 +1,5 @@
 role,admin_console,salesforce,netsuite,workday,aws_console
+Support Analyst,Yes,Yes,No,No,No
 Operations Specialist,Yes,Yes,No,No,No
 Finance Analyst,Yes,No,Yes,No,No
 Engineer,Yes,No,No,No,Yes
