@@ -22,7 +22,7 @@ Access = **group membership** in Entra ID. Each system is a security group; a ro
 | Event | User | Action | Principle |
 |---|---|---|---|
 | **Joiner** | Dana Whitfield — Support Analyst | Provisioned to role baseline only | Least privilege from day one |
-| **Mover** | Monica Flores — Operations → HR | Added Workday, **removed** Admin Console + Salesforce | A move isn't done until old access is removed |
+| **Mover** | Monica Flores — Operations → HR | **Removed** Admin Console + Salesforce (Workday retained) | A move isn't done until old access is removed |
 | **Leaver** | Brian Hollis — terminated | Revoke sessions → block sign-in → remove access → deprovision | Close the post-termination window |
 
 ## Files
