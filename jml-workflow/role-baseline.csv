@@ -2,6 +2,6 @@ role,admin_console,salesforce,netsuite,workday,aws_console
 Support Analyst,Yes,Yes,No,No,No
 Operations Specialist,Yes,Yes,No,No,No
 Finance Analyst,No,No,Yes,No,No
-Engineer,Yes,No,No,No,Yes
+Platform Engineer,Yes,No,No,No,Yes
 HR Specialist,No,No,No,Yes,No
 Sales Rep,No,Yes,No,No,No
