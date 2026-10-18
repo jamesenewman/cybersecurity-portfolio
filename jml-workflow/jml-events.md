@@ -14,10 +14,10 @@ Access is modeled as Microsoft Entra ID security-group membership. Each group re
 ## 2. Mover — Monica Flores
 
 - **Change:** Operations Specialist → HR Specialist
-- **Before:** Admin Console, Salesforce
+- **Before:** Admin Console, Salesforce, Workday
 - **After:** Workday
-- **Actions:** + Workday · − Admin Console · − Salesforce
-- **Principle:** The move is incomplete until prior-role access is removed. Here, *two* old entitlements come off, not one — adding the new access and leaving either old system in place is the **privilege-creep** finding flagged in the Access Review project, prevented at the point of the move.
+- **Actions:** − Admin Console · − Salesforce (Workday retained — her HR access)
+- **Principle:** Her new HR access (Workday) was granted, but her old Operations access was never removed — Admin Console and Salesforce sat on the account with no business need. That's the **privilege-creep** finding from the Access Review project. The move isn't complete when the new access is added; it's complete when the old access comes off. Here, both old systems are removed and the account is brought back to least privilege.
 
 ## 3. Leaver — Brian Hollis
 
