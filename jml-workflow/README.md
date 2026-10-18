@@ -8,9 +8,11 @@ The identity access lifecycle for Meridian Payments, demonstrated hands-on in Mi
 
 ## Why this project
 
-Project 1 ([Access Review / IAM Audit](../access-review)) audited Meridian and found access violations that traced back to broken lifecycle events — **privilege creep** and a **terminated account left active**. This project builds the process that prevents them.
+Project 1 ([Access Review / IAM Audit](../access-review)) identified several access violations at the fiction al Meridian Payments, including privilege creep and a terminated account left active.
 
-> Project 1 was the detective control. This is the preventive one.
+This project builds on those findings by demonstrating the manual Joiner, Mover, and Leaver processes in Microsoft Entra ID. The focus is on assigning appropriate access, removing permissions when employees change roles, and properly deprovisioning accounts when employees leave.
+
+> Project 1 identified the problems. Project 2 demonstrates how those problems can be addressed.
 
 ## The model
 
