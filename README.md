@@ -25,7 +25,8 @@ This portfolio applies that experience to Identity and Access Management. Each p
 A mock user-access review: identifying over-provisioned and stale access, flagging least-privilege violations, and documenting remediation recommendations — the core work of an IAM analyst. Reviewed 11 users across 5 systems and identified three findings — excess privilege, privilege creep, and an offboarding failure — with prioritized remediation.
 
 **2. [Joiner / Mover / Leaver (JML) Workflow](./jml-workflow)** · *complete*
-A hands-on walkthrough of the access lifecycle in Microsoft Entra ID, built as the preventive follow-up to the Access Review: provisioning a new hire to least privilege, correcting privilege creep on a role change by removing old access, and deprovisioning a terminated user — revoke sessions, block sign-in, remove access. Directly remediates the lifecycle gaps found in Project 1.
+
+A hands-on demonstration of the identity lifecycle in Microsoft Entra ID, building on the findings from Project 1. Walked through manually provisioning a new employee with role-based group access, removing outdated permissions after a role change, and deprovisioning a terminated user through session revocation, account disabling, group removal, and deletion. Demonstrates how proper identity lifecycle management can address the access issues identified in the original review.
 
 **3. Account Takeover (ATO) — Access Investigation** · *planned*
 Reconstructing an account-takeover and unauthorized-access scenario: timeline, evidence, and how the access abuse was identified and contained.
