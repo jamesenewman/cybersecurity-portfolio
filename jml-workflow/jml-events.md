@@ -24,4 +24,4 @@ Access is modeled as Microsoft Entra ID security-group membership. Each group re
 - **Event:** Termination
 - **Before:** Admin Console, Salesforce
 - **Actions (in order):** revoke sessions → block sign-in → remove all group memberships → preserve record & review activity around termination → deprovision
-- **Principle:** Close the window between termination and access removal. Offboarding is handled as an investigation — logs preserved, post-termination activity reviewed — not a cleanup task. Directly remediates the Critical offboarding finding from the Access Review project, where a terminated account remained active and was used.
+- **Principle:** Proper offboarding requires promptly disabling access, removing unnecessary permissions, and addressing potential security concerns. Because Brian's account was used after termination in the simulated audit, a real-world investigation would also require preserving relevant logs and reviewing post-termination activity according to established incident-response procedures.
