@@ -13,11 +13,11 @@ Access is modeled as Microsoft Entra ID security-group membership. Each group re
 
 ## 2. Mover — Monica Flores
 
-- **Change:** Support Analyst → Finance Analyst
+- **Change:** Operations Specialist → HR Specialist
 - **Before:** Admin Console, Salesforce
-- **After:** Admin Console, NetSuite
-- **Actions:** + NetSuite · − Salesforce (Admin Console retained — required by both roles)
-- **Principle:** The move is incomplete until prior-role access is removed. Adding the new and keeping the old is the **privilege-creep** finding flagged in the Access Review project — prevented here by removing Salesforce at the point of the move.
+- **After:** Workday
+- **Actions:** + Workday · − Admin Console · − Salesforce
+- **Principle:** The move is incomplete until prior-role access is removed. Here, *two* old entitlements come off, not one — adding the new access and leaving either old system in place is the **privilege-creep** finding flagged in the Access Review project, prevented at the point of the move.
 
 ## 3. Leaver — Brian Hollis
 
