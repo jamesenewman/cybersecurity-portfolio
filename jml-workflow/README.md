@@ -16,7 +16,10 @@ This project builds on those findings by demonstrating the manual Joiner, Mover,
 
 ## The model
 
-Access = **group membership** in Entra ID. Each system is a security group; a role is a bundle of groups.
+For this simulation, access is represented through security-group memberships in Microsoft Entra ID. Each group represents a business system, and each role has a defined set of authorized groups.
+
+Adding or removing group memberships demonstrates how access would be managed throughout an employee's lifecycle. This lab does not include live integrations with the underlying business applications.
+
 **Systems:** Admin Console · Salesforce · NetSuite · Workday · AWS Console
 
 ## The three events
