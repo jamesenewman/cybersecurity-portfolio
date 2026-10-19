@@ -1,6 +1,6 @@
 # Joiner / Mover / Leaver (JML) Workflow — Meridian Payments, Inc.
 
-The identity access lifecycle for Meridian Payments, demonstrated hands-on in Microsoft Entra ID: access **provisioned** at hire, **adjusted** on a role change, and **deprovisioned** at termination.
+A hands-on simulation of the Joiner, Mover, and Leaver identity lifecycle for the fictional Meridian Payments, Inc., using Microsoft Entra ID to demonstrate manual access provisioning, role changes, and account deprovisioning.
 
 🎥 **[Watch the walkthrough](https://www.youtube.com/watch?v=qy1seE6QAAo)** — the full process and reasoning are in the voiceover. This README is the map; the video is the walk.
 
