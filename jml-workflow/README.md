@@ -8,7 +8,7 @@ A hands-on simulation of the Joiner, Mover, and Leaver identity lifecycle for th
 
 ## Why this project
 
-Project 1 ([Access Review / IAM Audit](../access-review)) identified several access violations at the fiction al Meridian Payments, including privilege creep and a terminated account left active.
+Project 1 ([Access Review / IAM Audit](../access-review)) identified several access violations at the fictional Meridian Payments, including privilege creep and a terminated account left active.
 
 This project builds on those findings by demonstrating the manual Joiner, Mover, and Leaver processes in Microsoft Entra ID. The focus is on assigning appropriate access, removing permissions when employees change roles, and properly deprovisioning accounts when employees leave.
 
