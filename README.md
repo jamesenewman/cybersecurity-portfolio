@@ -27,7 +27,7 @@ A mock user-access review: identifying over-provisioned and stale access, flaggi
 **2. [Joiner / Mover / Leaver (JML) Workflow](./jml-workflow)** · *complete*
 A hands-on demonstration of the identity lifecycle in Microsoft Entra ID, building on the findings from Project 1. Walked through manually provisioning a new employee with role-based group access, removing outdated permissions after a role change, and deprovisioning a terminated user through session revocation, account disabling, group removal, and deletion. Demonstrates how proper identity lifecycle management can address the access issues identified in the original review.
 
-3. Account Takeover Investigation · planned — Reconstructing an account-takeover and unauthorized-access scenario: timeline, evidence, and how the access abuse was identified and contained.
+3. **Account Takeover Investigation** · *planned* — Reconstructing an account-takeover and unauthorized-access scenario: timeline, evidence, and how the access abuse was identified and contained.
 
 ## Background
 
