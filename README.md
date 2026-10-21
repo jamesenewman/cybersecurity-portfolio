@@ -27,7 +27,11 @@ A mock user-access review: identifying over-provisioned and stale access, flaggi
 **2. [Joiner / Mover / Leaver (JML) Workflow](./jml-workflow)** · *complete*
 A hands-on demonstration of the identity lifecycle in Microsoft Entra ID, building on the findings from Project 1. Walked through manually provisioning a new employee with role-based group access, removing outdated permissions after a role change, and deprovisioning a terminated user through session revocation, account disabling, group removal, and deletion. Demonstrates how proper identity lifecycle management can address the access issues identified in the original review.
 
-**3. **Account Takeover Investigation** · *planned* - Reconstructing an account takeover and unauthorized-access scenario: timeline, evidence and how the access abuse was identified and contained. 
+3. **SAML Single Sign-On (SSO) Integration** · *in progress* — Configuring SAML-based single sign-on to a mock application in Microsoft Entra ID: identity provider setup, claim/attribute mapping, user assignment, and end-to-end login testing, with captured evidence and a recorded walkthrough. Demonstrates federation and the SAML/OIDC/OAuth authentication standards.
+
+4. **IAM Operations & Change Management** · *planned* — A simulated IAM support queue: resolving access-request, excess-access, and authentication tickets end to end — investigation, approval, change implementation, verification, and closure — with a formal change-management record and security-control evidence. Demonstrates day-to-day IAM operations and documentation discipline.
+
+5. **Account Takeover Investigation** · *planned* — Reconstructing an account-takeover and unauthorized-access scenario: timeline, evidence, and how the access abuse was identified and contained. 
 
 ## Background
 
